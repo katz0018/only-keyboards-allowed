@@ -5,6 +5,7 @@ html {
 .section-dark {
   background-color: #000308;
   color: #fff;
+  outline: #fff;
 }
 
 .section-light {
