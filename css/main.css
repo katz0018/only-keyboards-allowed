@@ -2,9 +2,8 @@ html {
   font-family: Roboto, sans-serif;
 }
 
-.ib:focus {
-  outline: 3px solid #fff;
-  outline-offset: 0;
+.masthead li a:focus {
+  outline: 3px solid #fff;
 }
 
 .section-dark {
