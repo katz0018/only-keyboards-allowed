@@ -7,7 +7,7 @@ html {
   color: #fff;
 }
 
-.ib:focus {
+.id:focus {
   outline: 3px solid #fff;
   outline-offset: 0;
 }
