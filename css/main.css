@@ -7,8 +7,9 @@ html {
   color: #fff;
 }
 
-main-link:focus {
-  outline: #fff;
+.ib:focus {
+  outline: 3px solid #fff;
+  outline-offset: 0;
 }
 
 .section-light {
